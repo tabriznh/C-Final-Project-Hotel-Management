@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{214FC4FA-40A5-40AE-A779-D3349AC09FE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hotel_management_final_project/Repository/BookingService.cs">
+    <Files>
+      <File FileName="hotel_management_final_project/Program.cs" Line="156" Column="78" />
+      <File FileName="hotel_management_final_project/Utility.cs" Line="47" Column="30" />
+      <File FileName="hotel_management_final_project/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="hotel_management_final_project/Repository/BookingService.cs" Line="111" Column="6" />
+      <File FileName="hotel_management_final_project/Repository/RoomService.cs" Line="86" Column="13" />
+      <File FileName="hotel_management_final_project/Database.cs" Line="19" Column="1" />
+      <File FileName="hotel_management_final_project/Models/Room.cs" Line="25" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hotel_management_final_project" expanded="True">
+            <Node name="hotel_management_final_project" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="BookingService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hotel__management__final__project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

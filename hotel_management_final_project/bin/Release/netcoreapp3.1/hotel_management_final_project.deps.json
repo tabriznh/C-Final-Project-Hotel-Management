@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "hotel_management_final_project/1.0.0": {
+        "runtime": {
+          "hotel_management_final_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hotel_management_final_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
